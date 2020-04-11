@@ -2,5 +2,8 @@
 
 Going to need GitHub Module 
 ``` pip install pygithub```
-DotEnv 
-```pip install dotenv```
+DotEnv
+
+'''python 
+pip install dotenv
+'''
